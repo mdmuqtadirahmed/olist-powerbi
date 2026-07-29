@@ -86,7 +86,7 @@ Answers: do delivery delays affect customer reviews, and how severely.
 
 ##  Report Preview
 
-*(Insert screenshots of each of the 3 pages here — e.g. `![Sales Performance](images/page1.png)`)*
+Report can be previewed from the .png files attached or download the PowerBI through the given link.
 
 ---
 
@@ -108,4 +108,4 @@ Download `Olist Reports.pbix` and open in Power BI Desktop, or view the publishe
 ---
 
 **Author:** [Mohammed Muqtadir Ahmed]
-**Connect:** [https://linkedin.com/in/mohammed-muqtadir-ahmed] ·  · [mohd.muqtadir.ahmed@gmail.com]
+**Connect:** [https://linkedin.com/in/mohammed-muqtadir-ahmed]   · [mohd.muqtadir.ahmed@gmail.com]
