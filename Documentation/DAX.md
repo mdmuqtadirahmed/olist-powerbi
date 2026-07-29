@@ -319,16 +319,3 @@ Example:
 Order Date Only =
 DATEVALUE(orders[order_purchase_timestamp])
 ```
-
----
-
-# Project
-
-**Brazilian E-Commerce (Olist) Sales Dashboard**
-
-Built with:
-
-- Power BI
-- DAX
-- Power Query
-- Star Schema Modeling
