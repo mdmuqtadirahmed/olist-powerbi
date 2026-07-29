@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 A fast-growing e-commerce company needs to understand customer behavior, product performance, and operational efficiency to make data-driven decisions on retention, marketing spend, and logistics. This project analyzes real transactional data from **Olist**, a major Brazilian e-commerce marketplace, to answer that need end-to-end — from raw, messy relational data to a polished, decision-ready Power BI report.
 
@@ -13,7 +13,7 @@ A fast-growing e-commerce company needs to understand customer behavior, product
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** — ~100K real orders (2016–2018) across 8 relational tables:
 
@@ -21,7 +21,7 @@ A fast-growing e-commerce company needs to understand customer behavior, product
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 
 - **Power BI Desktop** — data modeling, report design
 - **Power Query (M)** — data cleaning, merging, transformation
@@ -30,7 +30,7 @@ A fast-growing e-commerce company needs to understand customer behavior, product
 
 ---
 
-## 🧹 What This Project Involved
+##  What This Project Involved
 
 - Cleaned and merged 8 relational source tables into a proper star schema
 - Diagnosed and fixed real data-quality issues, including:
@@ -43,7 +43,7 @@ A fast-growing e-commerce company needs to understand customer behavior, product
 
 ---
 
-## 📊 Report Structure
+##  Report Structure
 
 ### Page 1 — Sales & Category Performance
 *Audience: Commercial / Marketing leadership*
@@ -65,7 +65,7 @@ Answers: do delivery delays affect customer reviews, and how severely.
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 **Sales & Regional Investment**
 - **R$15.84M** total revenue across **99K orders**, averaging **R$159.33** per order
@@ -84,13 +84,13 @@ Answers: do delivery delays affect customer reviews, and how severely.
 
 ---
 
-## 🖼️ Report Preview
+##  Report Preview
 
 *(Insert screenshots of each of the 3 pages here — e.g. `![Sales Performance](images/page1.png)`)*
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 Being transparent about scope and constraints:
 
@@ -101,7 +101,7 @@ Being transparent about scope and constraints:
 
 ---
 
-## 📈 How to Explore
+##  How to Explore
 
 Download `Olist Reports.pbix` and open in Power BI Desktop, or view the published report here: *[insert Power BI Service link if published]*
 
