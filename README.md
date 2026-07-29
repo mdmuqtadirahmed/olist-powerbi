@@ -107,5 +107,5 @@ Download `Olist Reports.pbix` and open in Power BI Desktop, or view the publishe
 
 ---
 
-**Author:** [Your Name]
-**Connect:** [LinkedIn] · [Portfolio] · [Email]
+**Author:** [Mohammed Muqtadir Ahmed]
+**Connect:** [https://linkedin.com/in/mohammed-muqtadir-ahmed] ·  · [mohd.muqtadir.ahmed@gmail.com]
