@@ -52,7 +52,7 @@ Answers: which categories drive revenue, which underperform, are there seasonal 
 **Key visuals:** Top 10 & bottom 10 categories by revenue, monthly revenue trend, revenue-by-state matrix with conditional formatting.
 
 ### Page 2 — Customer Segmentation & Value
-*Audience: CRM / Retention marketing*
+*Audience: RMF Analysis *
 Answers: who are the most valuable customers, and can they be segmented by behavior.
 
 **Key visuals:** RFM-based segment breakdown, Frequency-vs-Monetary scatter plot, top-20 customer table.
