@@ -55,7 +55,7 @@ Answers: which categories drive revenue, which underperform, are there seasonal 
 ** RMF Analysis **
 Answers: who are the most valuable customers, and can they be segmented by behavior.
 
-**Key visuals:** RFM-based segment breakdown, Frequency-vs-Monetary scatter plot, top-20 customer table.
+**Key visuals:** Recency/Frequency/Monetary-based segment breakdown, Frequency-vs-Monetary scatter plot, top-10 customer table.
 
 ### Page 3 — Delivery Performance & Satisfaction
 *Audience: Operations leadership*
